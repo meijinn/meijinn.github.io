@@ -11,7 +11,17 @@ type: page
 
 ## About me
 
-<iframe src="https://githubbadge.appspot.com/meijinn?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+NITAC Department of Electrical and Computer Engineering
+<br />
+<br />
+I've been playing some sports.<br />
+Judo: for 9 years (also have black belt)<br />
+Baseball: for 6 years<br />
+Handball: for a year<br />
+(I like baseball the most.)
+<br />
+<br />
+I like reading manga, playing Lego and some video games.
 
 ## Contact
 
