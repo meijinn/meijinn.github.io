@@ -1,0 +1,16 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#mathjaxのテスト" id="markdown-toc-mathjaxのテスト">mathjaxのテスト</a></li>
+</ul>
+
+<p>I decided to write down about my research thesis in short term. Approximately, a few months.
+Sometimes maybe contain various subject to my hobbys.</p>
+
+<p><img src="/img/1.JPG" alt="img1" /></p>
+
+<h2 id="mathjaxのテスト">mathjaxのテスト</h2>
+<p>オイラーの公式</p>
+
+\[\begin{align*}
+e^{ix}=\cos x+i\sin x
+\end{align*}\]
+:ET

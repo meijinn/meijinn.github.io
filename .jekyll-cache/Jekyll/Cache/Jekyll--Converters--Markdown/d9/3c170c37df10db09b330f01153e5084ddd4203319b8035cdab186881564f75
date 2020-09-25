@@ -1,0 +1,52 @@
+I"�	<ul id="markdown-toc">
+  <li><a href="#about-me" id="markdown-toc-about-me">About me</a></li>
+  <li><a href="#contact" id="markdown-toc-contact">Contact</a></li>
+  <li><a href="#external-link" id="markdown-toc-external-link">External link</a></li>
+  <li><a href="#comments" id="markdown-toc-comments">Comments</a></li>
+</ul>
+
+<h2 id="about-me">About me</h2>
+
+<iframe src="https://githubbadge.appspot.com/meijinn?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameborder="0"></iframe>
+
+<h2 id="contact">Contact</h2>
+
+<ul>
+  <li>GitHub：<a href="https://github.com/meijinn">meijinn</a></li>
+  <li>email：sharo.e1621@gmail.com</li>
+  <li><a href="https://www.facebook.com/takahashi2001">Facebook</a></li>
+  <li><a href="https://www.twitter.com/nitac_dd">Twitter</a></li>
+</ul>
+
+<h2 id="external-link">External link</h2>
+
+<p><a href="https://www.akashi.ac.jp/english/">NITAC</a> | <a href="https://en.wikipedia.org/wiki/Electrical_engineering">Electrical Engineering</a> | <a href="https://en.wikipedia.org/wiki/Electronic_engineering">Electronic Engineering</a> | <a href="http://www.falstad.com/circuit/">Circuit Simulator</a> | <a href="https://www.tinkercad.com/">tinkercad</a> | <a href="https://www.arduino.cc">Arduino</a> | <a href="https://processing.org/">Processing</a> | <a href="http://www.dot.tk/">Dot TK</a> | <a href="https://www.bricklink.com/v3/studio/download.page">studio 2.0</a></p>
+
+<h2 id="comments">Comments</h2>
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+     * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+
+    var disqus_config = function() {
+        this.page.url = 'http://localhost:4000/about/'; // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = 'http://localhost:4000/about/'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document,
+            s = d.createElement('script');
+
+        s.src = '//meijinn.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+:ET
