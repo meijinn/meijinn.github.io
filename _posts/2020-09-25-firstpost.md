@@ -2,7 +2,8 @@
 layout: post
 title:  "This is the first post"
 date:   2020-09-25
-tags: jekyll # add tag
+categories: hobby
+tags: lego # add tag
 mathjax: true
 author: S.Takahashi
 ---
