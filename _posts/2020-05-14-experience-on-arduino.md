@@ -63,7 +63,7 @@ But hardware Problems are happened.
 When running the program of RC car and operated it, it seems to be that I had made a few mistakes.
 It smells roasting circuit. I forgot implementation of electric resister. I start the measurement of electric resistance of wires and motor driver. Come to think of it, it might not be really. I should have estimated of current tolerance with by being wire's and moter driver's resistance as **0 ohm**.
 Arduino's voltage per pins are **5 V**, and electrical resistance of circuits per pin are **10.9 ohm**.
-Therefore, The current is,
+Therefore, the current is,
 
 
 $
@@ -85,6 +85,8 @@ But lower **4.5 V** voltage can't drive NXT motors. No voltage drop higher than 
 #### Transistor
 Transistor is known as active component. [picture]↓
 
+{: align="center"}
+![img3](/img/0514/3.jpg)
 
 Implied is NPN form. Calculate putting resisters makes current control.
 
