@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is the first post"
+title:  "Lego Kaneda's bike post"
 date:   2020-09-25
 categories: Hobby
 tags: Lego # add tag
@@ -12,11 +12,11 @@ author: S.Takahashi
 {:toc}
 
 ## Study and hobbys
-I decided to write down about my research thesis in short term. Approximately, a few months.
+I will write down about my research thesis in short term. Approximately, a few months.
 It also contains various, for instance regarding my hobbys.<br />
 At first, I will start this site introducing my Lego work.
 
-![img1](/img/1.JPG)
+![img1](/img/0925/1.JPG)
 
 ## Instruction
 
@@ -26,4 +26,4 @@ It has a little differ from building genuine packed product. I explored same par
 ## Building guide
 
 I also created lego building guide on [Studio 2.0](https://www.bricklink.com/v3/studio/download.page). It's like CAD contains many types of lego parts for illustrating. I feel that it is easy to use, confortable.
-<br /><a href="/img/kaneda_bike.pdf" target="_blank">download building instruction is here.</a><br />
+<br /><a href="/img/0925/kaneda_bike.pdf" target="_blank">download building instruction is here.</a><br />
