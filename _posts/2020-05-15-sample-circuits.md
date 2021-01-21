@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Transistor Sample Circuits"
-date:   2020-05-15 10:22:00
+date:   2020-05-15
 categories: Arduino Lifehack Hobby 
 tags: Graduation_Research
 mathjax: true

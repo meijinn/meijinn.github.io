@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Converting Mecha Kame III 2"
-date:   2020-05-20 23:12:00
-categories: Arduino Lifehack Hobby 
-tags: Graduation_Research Lego
+date:   2020-05-20
+categories: Arduino Lifehack 
+tags: Experiment_Class
 mathjax: true
 author: S.Takahashi
 ---
