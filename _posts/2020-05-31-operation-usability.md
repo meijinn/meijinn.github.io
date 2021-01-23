@@ -2,7 +2,7 @@
 layout: post
 title:  "For updating operation usability"
 date:   2020-05-31
-categories: Arduino prototype
+categories: Arduino Prototype
 tags: Graduation_Research Experiment_Class
 mathjax: true
 author: S.Takahashi

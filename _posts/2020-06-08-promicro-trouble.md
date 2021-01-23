@@ -2,8 +2,8 @@
 layout: post
 title:  "Using ArduinoISP for Solving Problem that Pro Micro was Probably Broken by High Voltage"
 date:   2020-06-08
-categories: Arduino prototype
-tags: Experiment_class
+categories: Arduino Prototype
+tags: Experiment_Class
 mathjax: true
 author: S.Takahashi
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "DC Motor Control Only Using Transistor"
 date:   2020-05-24 09:43:00
-categories: Arduino prototype
+categories: Arduino Prototype
 tags: Experiment_Class Graduation_Research
 mathjax: true
 author: S.Takahashi
