@@ -2,8 +2,8 @@
 layout: post
 title:  "Wheeling Two Motors, and Cooperation of Infrared Remote Controller"
 date:   2020-05-23
-categories: Arduino Prototype
-tags: Experiment_Class
+categories: Arduino Prototype April_to_May
+tags: Experiment_Class Mid-Term Term1
 mathjax: true
 author: S.Takahashi
 ---

@@ -2,8 +2,8 @@
 layout: post
 title:  "Experiments of Prototype RC Car Using Arduino Considerating of its Behavior"
 date:   2020-05-14
-categories: Arduino Lifehack Hobby 
-tags: Graduation_Research Lego
+categories: Arduino Lifehack Hobby April_to_May
+tags: Graduation_Research Lego Trouble Mid-Term Term1
 mathjax: true
 author: S.Takahashi
 ---
