@@ -11,8 +11,10 @@ type: page
 
 ## About me
 
-NITAC Department of Electrical and Computer Engineering
+NITAC Advanced Course Department of Mechanical and Electronic System Engineering
 <br />
+I had been researched Remote Driving System Usability,
+and Human Machine Interface of Cars by using RC car.
 <br />
 I've been playing some sports.<br />
 Judo: for 9 years (also have black belt)<br />
@@ -21,7 +23,7 @@ Handball: for a year<br />
 (I like baseball the most.)
 <br />
 <br />
-I like reading manga, playing Lego and some video games.
+I like reading manga, playing Lego and excercising at gyms.
 
 ## Contact
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "Transistor Sample Circuits"
 date:   2020-05-15
-categories: Arduino Lifehack Hobby April_to_May
-tags: Graduation_Research Mid-Term Term1
+categories: Arduino
+tags: Graduation_Research Mid-Term
 mathjax: true
 author: S.Takahashi
 ---
