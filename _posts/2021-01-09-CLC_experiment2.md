@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CLC Experiment2"
-date: 2020-1-9
+date: 2021-1-9
 categories: Arduino Python Prototype
 tags: Graduation_Research Experiment
 mathjax: true

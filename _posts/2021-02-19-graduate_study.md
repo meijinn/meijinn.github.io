@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Graduation Research Things Left Undone"
-date: 2020-2-19
+date: 2021-2-19
 categories: Arduino Python Prototype
 tags: Graduation_Research Experiment
 mathjax: true
