@@ -7,7 +7,7 @@
 
 # Site settings
 title: Hands-on Practice
-brief-intro: NITAC Electronic student
+brief-intro: NITAC Advanced Course Mechanical and Electronic System Engineering Student
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://meijinn.github.io" # the base hostname & protocol for your site
 
