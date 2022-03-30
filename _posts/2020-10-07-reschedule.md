@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reschedule and Refix"
-date: 2020-09-17
+date: 2020-10-07
 categories: Graduation_Research
 tags: Plan
 mathjax: true

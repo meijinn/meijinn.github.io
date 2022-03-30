@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Making Materials"
-date: 2020-09-17
+date: 2020-10-06
 categories: Graduation_Research
-tags: End-term Context
+tags: Context
 mathjax: true
 author: S.Takahashi
 ---

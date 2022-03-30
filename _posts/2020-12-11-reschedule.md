@@ -2,8 +2,8 @@
 layout: post
 title:  "Reschedule for Research Conference"
 date: 2020-12-11
-categories: Arduino Python Prototype
-tags: Graduation_Research Plan
+categories: Graduation_Research
+tags: Plan
 mathjax: true
 author: S.Takahashi
 ---

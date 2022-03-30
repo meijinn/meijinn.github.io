@@ -3,7 +3,7 @@ layout: post
 title:  "Experiment Class 4"
 date: 2020-07-24
 categories: Experiment_Class
-tags: Arduiono
+tags: Arduino
 mathjax: true
 author: S.Takahashi
 ---

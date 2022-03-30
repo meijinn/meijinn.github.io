@@ -3,7 +3,7 @@ layout: post
 title:  "Experiments of Prototype RC Car Using Arduino Considerating of its Behavior"
 date:   2020-05-14
 categories: Graduation_Research
-tags: Arduiono Lego Trouble
+tags: Arduino Lego Trouble
 mathjax: true
 author: S.Takahashi
 ---
