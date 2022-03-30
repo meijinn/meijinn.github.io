@@ -2,8 +2,8 @@
 layout: post
 title:  "VR FPV"
 date: 2020-09-17
-categories: Arduino Python Prototype
-tags: Graduation_Research Summer_Holiday Context
+categories: Graduation_Research
+tags: Arduino Python Prototype Context
 mathjax: true
 author: S.Takahashi
 ---

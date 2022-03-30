@@ -2,8 +2,8 @@
 layout: post
 title:  "Converting Mecha Kame III"
 date:   2020-05-18
-categories: Arduino
-tags: Experiment_Class Mid-Term
+categories: Experiment_Class
+tags: Arduino
 mathjax: true
 author: S.Takahashi
 ---

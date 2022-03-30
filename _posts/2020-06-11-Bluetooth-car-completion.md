@@ -2,8 +2,8 @@
 layout: post
 title:  "Bluetooth Remote Controlled Car, Wireless Communication with Existing Android Application"
 date:   2020-06-11
-categories: Arduino Prototype
-tags: Graduation_Research Mid-Term
+categories: Graduation_Research
+tags: Arduino Prototype
 mathjax: true
 author: S.Takahashi
 ---

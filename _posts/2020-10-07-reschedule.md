@@ -2,8 +2,8 @@
 layout: post
 title:  "Reschedule and Refix"
 date: 2020-09-17
-categories: Arduino Python Prototype
-tags: Graduation_Research End-term
+categories: Graduation_Research
+tags: Plan
 mathjax: true
 author: S.Takahashi
 ---

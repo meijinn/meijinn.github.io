@@ -2,8 +2,8 @@
 layout: post
 title:  "Usablity First Impression"
 date: 2020-10-09
-categories: Arduino Python Prototype
-tags: Graduation_Research End-term
+categories: Graduation_Research 
+tags: Experiment
 mathjax: true
 author: S.Takahashi
 ---

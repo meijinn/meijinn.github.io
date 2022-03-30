@@ -2,8 +2,8 @@
 layout: post
 title:  "Making Motor Driver Circuit Think About On Current"
 date:   2020-05-30
-categories: Arduino Prototype
-tags: Graduation_Research Mid-Term
+categories: Graduation_Research
+tags: Arduino Prototype
 mathjax: true
 author: S.Takahashi
 ---

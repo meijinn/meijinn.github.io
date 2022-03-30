@@ -2,8 +2,8 @@
 layout: post
 title:  "CLC Experiment2"
 date: 2021-1-9
-categories: Arduino Python Prototype
-tags: Graduation_Research Experiment
+categories: Graduation_Research
+tags: Experiment
 mathjax: true
 author: S.Takahashi
 ---

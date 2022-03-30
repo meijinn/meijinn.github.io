@@ -2,8 +2,8 @@
 layout: post
 title:  "Consideration of Experiment"
 date: 2020-10-25
-categories: Arduino Python Prototype
-tags: Graduation_Research Summer_Holiday
+categories: Graduation_Research
+tags: Plan
 mathjax: true
 author: S.Takahashi
 ---

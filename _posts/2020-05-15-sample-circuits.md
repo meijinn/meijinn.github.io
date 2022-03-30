@@ -2,8 +2,8 @@
 layout: post
 title:  "Transistor Sample Circuits"
 date:   2020-05-15
-categories: Arduino
-tags: Graduation_Research Mid-Term
+categories: Graduation_Research
+tags: Design
 mathjax: true
 author: S.Takahashi
 ---

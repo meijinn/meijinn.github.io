@@ -2,8 +2,8 @@
 layout: post
 title:  "Bluetooth module rn42xvp-i/rm"
 date:   2020-06-10
-categories: Arduino Prototype
-tags: Graduation_Research Mid-Term
+categories: Graduation_Research
+tags: Arduino Prototype
 mathjax: true
 excerpt: Rn42xvp-i/rm is one of the bluetooth module for prototyping, used by Arduino, Raspberry Pi or something like that.
 author: S.Takahashi

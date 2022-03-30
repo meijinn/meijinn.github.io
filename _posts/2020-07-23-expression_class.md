@@ -2,8 +2,8 @@
 layout: post
 title:  "Expression Class Report"
 date: 2020-07-23
-categories: Context
-tags: Mid-Term
+categories: Graduation_Research
+tags: Context
 mathjax: true
 author: S.Takahashi
 ---

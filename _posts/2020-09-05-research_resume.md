@@ -2,8 +2,8 @@
 layout: post
 title:  "Research activity resumed"
 date: 2020-09-05
-categories: Arduino
-tags: Graduation_Research Summer_Holiday
+categories: Graduation_Research
+tags: Arduino Processing
 mathjax: true
 author: S.Takahashi
 ---

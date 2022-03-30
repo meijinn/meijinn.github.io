@@ -2,8 +2,8 @@
 layout: post
 title:  "Experiment Class 4"
 date: 2020-07-24
-categories: Arduino
-tags: Experiment_Class Mid-Term
+categories: Experiment_Class
+tags: Arduiono
 mathjax: true
 author: S.Takahashi
 ---

@@ -2,8 +2,8 @@
 layout: post
 title:  "Phone Camera"
 date: 2020-09-18
-categories: Arduino Python Prototype
-tags: Graduation_Research Summer_Holiday
+categories: Graduation_Research
+tags: Arduino Python Prototype
 mathjax: true
 author: S.Takahashi
 ---

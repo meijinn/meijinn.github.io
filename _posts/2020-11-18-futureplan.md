@@ -2,8 +2,8 @@
 layout: post
 title:  "Future Plan"
 date: 2020-11-13
-categories: Arduino Python Prototype
-tags: Graduation_Research Summer_Holiday
+categories: Graduation_Research
+tags: Plan
 mathjax: true
 author: S.Takahashi
 ---

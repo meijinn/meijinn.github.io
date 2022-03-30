@@ -2,8 +2,8 @@
 layout: post
 title:  "Gopro Streaming"
 date: 2020-09-16
-categories: Python
-tags: Graduation_Research Summer_Holiday
+categories: Graduation_Research
+tags: Python
 mathjax: true
 author: S.Takahashi
 ---

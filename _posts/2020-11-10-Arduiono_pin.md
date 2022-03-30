@@ -2,8 +2,8 @@
 layout: post
 title:  "Arduiono Pin Remark"
 date: 2020-11-10
-categories: Arduino Python Prototype
-tags: Graduation_Research Summer_Holiday
+categories: Graduation_Research
+tags: Arduino Trouble
 mathjax: true
 author: S.Takahashi
 ---

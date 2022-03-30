@@ -2,8 +2,8 @@
 layout: post
 title:  "Evaluation of operation usability"
 date: 2020-09-06
-categories: Arduino
-tags: Graduation_Research Summer_Holiday
+categories: Graduation_Research
+tags: Arduino
 mathjax: true
 author: S.Takahashi
 ---

@@ -2,8 +2,8 @@
 layout: post
 title:  "Test Driving"
 date: 2020-10-10
-categories: Arduino Python Prototype
-tags: Graduation_Research Summer_Holiday Experiment
+categories: Graduation_Research
+tags: Experiment
 mathjax: true
 author: S.Takahashi
 ---

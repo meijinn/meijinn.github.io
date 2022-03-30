@@ -2,8 +2,8 @@
 layout: post
 title:  "Making Materials"
 date: 2020-09-17
-categories: Arduino Python Prototype
-tags: Graduation_Research End-term Context
+categories: Graduation_Research
+tags: End-term Context
 mathjax: true
 author: S.Takahashi
 ---

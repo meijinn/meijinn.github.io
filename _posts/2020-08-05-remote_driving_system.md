@@ -2,8 +2,8 @@
 layout: post
 title:  "This is a Remote Driving System"
 date: 2020-08-05
-categories: Arduino
-tags: Graduation_Research Mid-Term
+categories: Graduation_Research
+tags: Arduino Processing
 mathjax: true
 author: S.Takahashi
 ---

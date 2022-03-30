@@ -2,8 +2,8 @@
 layout: post
 title:  "Implementation for Experiment Making Class Remote Controlled Car"
 date: 2020-07-27
-categories: Arduino
-tags: Experiment_Class Mid-Term
+categories: Experiment_Class
+tags: Arduino
 mathjax: true
 author: S.Takahashi
 ---

@@ -2,8 +2,8 @@
 layout: post
 title:  "Gopro View Change"
 date: 2020-11-04
-categories: Arduino Python Prototype
-tags: Graduation_Research Summer_Holiday
+categories: Graduation_Research
+tags: Python
 mathjax: true
 author: S.Takahashi
 ---

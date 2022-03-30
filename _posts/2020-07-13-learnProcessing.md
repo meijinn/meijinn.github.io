@@ -2,8 +2,8 @@
 layout: post
 title: Learning Processing Language
 date: 2020-07-13
-categories: Arduino Processing Prototype
-tags: Graduation_Research Final-Term
+categories: Graduation_Research
+tags: Arduino Processing Prototype
 mathjax: false
 author: S.Takahashi
 ---

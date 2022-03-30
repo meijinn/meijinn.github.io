@@ -2,8 +2,8 @@
 layout: post
 title:  "Graduation Research Things Left Undone"
 date: 2021-2-19
-categories: Arduino Python Prototype
-tags: Graduation_Research Experiment
+categories: Graduation_Research
+tags: Experiment
 mathjax: true
 author: S.Takahashi
 ---

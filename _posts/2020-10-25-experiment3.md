@@ -2,8 +2,8 @@
 layout: post
 title:  "Experiment 3"
 date: 2020-10-25
-categories: Arduino Python Prototype
-tags: Graduation_Research Experiment
+categories: Graduation_Research
+tags: Experiment
 mathjax: true
 author: S.Takahashi
 ---

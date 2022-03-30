@@ -2,8 +2,8 @@
 layout: post
 title:  "Gym Arrangement Making Materials"
 date: 2020-09-17
-categories: Arduino Python Prototype
-tags: Graduation_Research End-term
+categories: Graduation_Research
+tags: Arduino Python Prototype
 mathjax: true
 author: S.Takahashi
 ---

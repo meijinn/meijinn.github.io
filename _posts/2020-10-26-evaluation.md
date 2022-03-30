@@ -2,8 +2,8 @@
 layout: post
 title:  "Self Evaluation"
 date: 2020-10-26
-categories: Arduino Python Prototype
-tags: Graduation_Research End-term
+categories: Graduation_Research
+tags: Experiment
 mathjax: true
 author: S.Takahashi
 ---

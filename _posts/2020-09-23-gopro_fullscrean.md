@@ -2,8 +2,8 @@
 layout: post
 title:  "Go Pro Fullscrean Streaming Mod"
 date: 2020-09-17
-categories: Arduino Python Prototype
-tags: Graduation_Research Summer_Holiday
+categories: Graduation_Research
+tags: Arduino Python Prototype
 mathjax: true
 author: S.Takahashi
 ---

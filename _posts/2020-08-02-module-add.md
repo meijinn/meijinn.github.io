@@ -2,8 +2,8 @@
 layout: post
 title:  "Wired control"
 date: 2020-08-02
-categories: Arduino
-tags: Graduation_Research Mid-Term
+categories: Graduation_Research
+tags: Arduino
 mathjax: true
 author: S.Takahashi
 ---
