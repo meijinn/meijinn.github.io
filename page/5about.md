@@ -9,19 +9,26 @@ type: page
 * content
 {:toc}
 
-## About me
+<img src="../img/me.jpg" alt="me" align="right">
 
-NITAC Advanced Course Department of Mechanical and Electronic System Engineering
+## At school
+
+A student.
+I am studying at NITAC Advanced Course Department of Mechanical and Electronic System Engineering.
 <br />
-I had been researched Remote Driving System Usability,
-and Human Machine Interface of Cars by using RC car.
+I am supposed to get on bachelor degree of electrical and electronic engineering.
 <br />
+I had been researched **Remote Driving System Usability**,
+and **Human Machine Interface of Cars by using RC car**.
+<br />
+In the future, we plan to develop an autonomous driving system for radio-controlled cars, which will be operated by switching between autonomous and manual driving, and conduct research on problems that arise when taking over driving.
+
+## Hobbys
 I've been playing some sports.<br />
-Judo: for 9 years (also have black belt)<br />
-Baseball: for 6 years<br />
-Handball: for a year<br />
+🥋 Judo: for 9 years (also have black belt)<br />
+⚾ Baseball: for 6 years<br />
+🤾 Handball: for a year<br />
 (I like baseball the most.)
-<br />
 <br />
 I like reading manga, playing Lego and excercising at gyms.
 
@@ -34,7 +41,7 @@ I like reading manga, playing Lego and excercising at gyms.
 
 ## External link
 
-[NITAC](https://www.akashi.ac.jp/english/) \| [Electrical Engineering](https://en.wikipedia.org/wiki/Electrical_engineering) \| [Electronic Engineering](https://en.wikipedia.org/wiki/Electronic_engineering) \| [Circuit Simulator](http://www.falstad.com/circuit/) \| [tinkercad](https://www.tinkercad.com/) \| [Arduino](https://www.arduino.cc) \| [Processing](https://processing.org/) \| [Dot TK](http://www.dot.tk/) \| [studio 2.0](https://www.bricklink.com/v3/studio/download.page)
+[NITAC](https://www.akashi.ac.jp/english/) \| [Electrical Engineering](https://en.wikipedia.org/wiki/Electrical_engineering) \| [Electronic Engineering](https://en.wikipedia.org/wiki/Electronic_engineering) \| [Circuit Simulator](http://www.falstad.com/circuit/) \| [tinkercad](https://www.tinkercad.com/) \| [Arduino](https://www.arduino.cc) \| [Processing](https://processing.org/) \| [studio 2.0](https://www.bricklink.com/v3/studio/download.page)
 
 ## Comments
 

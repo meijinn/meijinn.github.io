@@ -20,7 +20,6 @@ github_username:  meijinn
 email: sharo.e1621@gmail.com
 #weibo_username: 3115521wh
 #zhihu_username: gaohaoyang
-linkedIn_username: shoutarou-takahashi-148b0219b
 #dribbble_username:
 
 description_footer: This site records the scenery along the way of my research!
@@ -53,7 +52,7 @@ category_dir: category/
 tag_dir: tag/
 
 # excerpt
-excerpt_separator: "\n\n\n\n"
+excerpt_separator: "\n\n\n"
 
 # paginate
 
